@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+img{
+   height: 300px;
+   margin-top: 10px;
+   border-radius: 4%;
+}
+div{
+    width: 330px;
+    border-radius: 4%;
+    background-color: white;
+   margin: 50px auto 50px auto;
+}
